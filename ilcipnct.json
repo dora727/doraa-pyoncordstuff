@@ -1,0 +1,20 @@
+{
+    "name": "I love Custom iconpacks and Client Themes <3",
+    "description": "a theme that ONLY activate Themes+ for anyone wanna use custom iconpacks with client themes!",
+	"authors": [
+      {
+         "name": "doraa",
+         "id": "727"
+      }
+    ],
+    "semanticColors": {
+
+    },
+    "rawColors": {
+
+    },
+    "plus": {
+        "version": 0
+    },
+    "spec": 2
+            }
