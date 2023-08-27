@@ -12,6 +12,7 @@
 
     On "Root URL" put iconpack link
      - Plumpy Icon: https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/Plumpy/
+     - SecondPlumpy Icon (which i changed some icons): https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/SecondPlumpy/
      - Iconsax Icon (un-done for un-rosiecording lol): https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/Iconsax/
 
     On "Icon Suffix" put @2x or @3x (@2x recommended)
