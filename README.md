@@ -10,16 +10,15 @@ What is this? This is Rosiecord's Iconpacks for Vendetta Themes+ but removed cha
 3. Enable Themes+ plugin
 4. Go to Themes+ plugin settings, tap on "Themes+ is (In)Active" twice
 5. Apply iconpacks
-    Click "Custom Iconpack"
 
-    *(In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack"*
+    1. Click "Custom Iconpack"
 
-    On "Root URL" put iconpack link
+    *(In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack")*
+    2. On "Root URL" put iconpack link
      - Plumpy Icon: https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/Plumpy/
      - SecondPlumpy Icon (which i changed some icons): https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/SecondPlumpy/
      - Iconsax Icon (un-done for un-rosiecording lol): https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/Iconsax/
-
-    On "Icon Suffix" put @2x or @3x (@2x recommended)
+    3. On "Icon Suffix" put @2x or @3x (@2x recommended)
 7. Tap "Reload".
 
 Enjoy!
