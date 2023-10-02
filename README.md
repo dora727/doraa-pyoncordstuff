@@ -1,14 +1,18 @@
-# un-Rosiecorded Icon Packs for Vendetta Themes+!
+# un-Rosiecorded Iconpacks for Vendetta Themes+!
+
+What is this? This is Rosiecord's Iconpacks for Vendetta Themes+ but removed character, and added some new icons while also changing something!
 
 ## How to use
 
 1. Install Themes+ plugin (by nexpid): https://vendetta.nexpid.xyz/themes-plus
 2. Apply a theme that support Themes+
-   (in case you want to use default themes or client themes, install and enable this theme: https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/ilcipnct.json
-   this will only active Themes+ without changing anything)
+   (in case you want to use default themes or client themes, skip Step 2)
 3. Enable Themes+ plugin
-4. Go to Themes+ plugin settings, tap on "Themes+ is Active" twice
+4. Go to Themes+ plugin settings, tap on "Themes+ is (In)Active" twice
 5. Apply iconpacks
+    Click "Custom Iconpack"
+
+        *(In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack"*
 
     On "Root URL" put iconpack link
      - Plumpy Icon: https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/Plumpy/
