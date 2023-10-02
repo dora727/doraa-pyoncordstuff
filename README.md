@@ -12,7 +12,7 @@ What is this? This is Rosiecord's Iconpacks for Vendetta Themes+ but removed cha
 5. Apply iconpacks
     Click "Custom Iconpack"
 
-        *(In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack"*
+    *(In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack"*
 
     On "Root URL" put iconpack link
      - Plumpy Icon: https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/Packs/Plumpy/
