@@ -1,0 +1,34 @@
+{
+  "name": "doraa's Vendetta IPAs",
+  "identifier": "meow.doraa.vdstuff",
+  "apps": [
+    {
+      "name": "ATK",
+      "bundleIdentifier": "cmmb.doraa.ATK",
+      "developerName": "ATK",
+      "subtitle": "ATK",
+      "localizedDescription": "ATK",
+      "iconURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/Essentials/Icons/ATK.png",
+      "tintColor": "96B7CE",
+      "screenshotURLs": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "7.2.7",
+          "date": "11/11/22",
+          "localizedDescription": "ATK",
+          "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "size": 727,
+          "minOSVersion": "7.2.7",
+          "maxOSVersion": "17.2.7"
+        }
+      ],
+      "version": "7.2.7",
+      "versionDate": "11/11/22",
+      "versionDescription": "ATK",
+      "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "size": 727
+    }
+  ],
+  "news": []
+}
