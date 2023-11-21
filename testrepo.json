@@ -20,7 +20,7 @@
           "downloadURL": "kcj",
           "size": 727
         }
-      ],
+      ]
     },
     {
       "name": "Discord v*** (*****)+CabinFont",
@@ -40,7 +40,7 @@
           "downloadURL": "kcj",
           "size": 727
         }
-      ],
+      ]
     },
     {
       "name": "ATK",
@@ -62,7 +62,7 @@
           "minOSVersion": "7.2.7",
           "maxOSVersion": "17.2.7"
         }
-      ],
+      ]
     }
   ]
   "news": []
