@@ -3,6 +3,46 @@
   "identifier": "meow.doraa.vdstuff",
   "apps": [
     {
+      "name": "Discord v*** (*****) VDStock",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Discord, Inc., Vendetta",
+      "subtitle": "Discord with Vendetta",
+      "localizedDescription": "Discord with Vendetta",
+      "iconURL": "https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/discordicon.png",
+      "tintColor": "96B7CE",
+      "screenshotURLs": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "*** (*****)",
+          "date": "23/11/11",
+          "localizedDescription": "kcj",
+          "downloadURL": "kcj",
+          "size": 727
+        }
+      ],
+    },
+    {
+      "name": "Discord v*** (*****)+CabinFont",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Discord, Inc., Vendetta, Rosie, doraa",
+      "subtitle": "Discord with Vendetta with Cabin Font",
+      "localizedDescription": "Discord with Vendetta with Cabin Font",
+      "iconURL": "https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/discordicon.png",
+      "tintColor": "96B7CE",
+      "screenshotURLs": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "*** (*****)",
+          "date": "23/11/11",
+          "localizedDescription": "kcj",
+          "downloadURL": "kcj",
+          "size": 727
+        }
+      ],
+    },
+    {
       "name": "ATK",
       "bundleIdentifier": "cmmb.doraa.ATK",
       "developerName": "ATK",
@@ -15,7 +55,7 @@
       "versions": [
         {
           "version": "7.2.7",
-          "date": "11/11/23",
+          "date": "23/11/11",
           "localizedDescription": "updated to talk with more girls",
           "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
           "size": 727,
@@ -23,12 +63,7 @@
           "maxOSVersion": "17.2.7"
         }
       ],
-      "version": "7.2.7",
-      "versionDate": "11/11/23",
-      "versionDescription": "updated to talk with more girls",
-      "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "size": 727
     }
   ],
   "news": []
-}
+},
