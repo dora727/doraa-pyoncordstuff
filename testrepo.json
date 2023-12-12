@@ -7,11 +7,10 @@
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Discord, Inc. x Vendetta",
       "subtitle": "Discord with Vendetta + Meloso Font!",
-      "localizedDescription": "Discord with Vendetta + Meloso Font!",
       "iconURL": "https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/discordicon.png",
       "tintColor": "5164ED",
       "screenshotURLs": [],
-      "beta": true,
+      "beta": false,
       "versions": [
         {
           "version": "208.0-52961",
@@ -19,8 +18,7 @@
           "localizedDescription": "atk hd",
           "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v208.0-52961-MelosoFont.ipa",
           "size": 87448486,
-		  "minOSVersion": "12.0",
-		  "maxOSVersion": "18.0"
+		  "minOSVersion": "12.0"
         },
         {
           "version": "205.0-52123",
@@ -28,8 +26,7 @@
           "localizedDescription": "atk hd",
           "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v205.0-52123-MelosoFont.ipa",
           "size": 89710624,
-		  "minOSVersion": "12.0",
-		  "maxOSVersion": "18.0"
+		  "minOSVersion": "12.0"
         }
       ]
     },
@@ -37,8 +34,7 @@
       "name": "ATK",
       "bundleIdentifier": "cmmb.doraa.ATK",
       "developerName": "ATK",
-      "subtitle": "ATK",
-      "localizedDescription": "make your phone no. 1 simp (rel)",
+      "subtitle": "make your phone no. 1 simp (rel)",
       "iconURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/Icons/ATK.png",
       "tintColor": "96B7CE",
       "screenshotURLs": [],
@@ -50,8 +46,7 @@
           "localizedDescription": "updated to talk with more girls",
           "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
           "size": 727,
-          "minOSVersion": "7.2.7",
-          "maxOSVersion": "27.2.7"
+          "minOSVersion": "7.2.7"
         }
       ]
     }
