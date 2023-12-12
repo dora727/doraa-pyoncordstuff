@@ -27,7 +27,7 @@
           "date": "23/12/12",
           "localizedDescription": "atk hd",
           "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v205.0-52123-MelosoFont.ipa",
-          "size": 89710624
+          "size": 89710624,
 		  "minOSVersion": "12.0",
 		  "maxOSVersion": "18.0"
         }
@@ -51,7 +51,7 @@
           "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
           "size": 727,
           "minOSVersion": "7.2.7",
-          "maxOSVersion": "17.2.7"
+          "maxOSVersion": "27.2.7"
         }
       ]
     }
