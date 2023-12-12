@@ -3,42 +3,29 @@
   "identifier": "meow.doraa.vdstuff",
   "apps": [
     {
-      "name": "Discord v*** (*****) VDStock",
+      "name": "Discord (Vendetta)",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Discord, Inc., Vendetta",
-      "subtitle": "Discord with Vendetta",
-      "localizedDescription": "Discord with Vendetta",
+      "subtitle": "Discord with Vendetta + Meloso Font!",
+      "localizedDescription": "Discord with Vendetta + Meloso Font!",
       "iconURL": "https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/discordicon.png",
-      "tintColor": "96B7CE",
+      "tintColor": "5164ED",
       "screenshotURLs": [],
-      "beta": false,
+      "beta": true,
       "versions": [
         {
-          "version": "*** (*****)",
-          "date": "23/11/11",
-          "localizedDescription": "kcj",
-          "downloadURL": "kcj",
-          "size": 727
-        }
-      ]
-    },
-    {
-      "name": "Discord v*** (*****)+CabinFont",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "Discord, Inc., Vendetta, Rosie, doraa",
-      "subtitle": "Discord with Vendetta with Cabin Font",
-      "localizedDescription": "Discord with Vendetta with Cabin Font",
-      "iconURL": "https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/discordicon.png",
-      "tintColor": "96B7CE",
-      "screenshotURLs": [],
-      "beta": false,
-      "versions": [
+          "version": "208.0 (52961)",
+          "date": "23/12/12",
+          "localizedDescription": "atk hd",
+          "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v208.0-52961-MelosoFont.ipa",
+          "size": 87448486
+        },
         {
-          "version": "*** (*****)",
-          "date": "23/11/11",
-          "localizedDescription": "kcj",
-          "downloadURL": "kcj",
-          "size": 727
+          "version": "205.0 (52123)",
+          "date": "23/12/12",
+          "localizedDescription": "atk hd",
+          "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v205.0-52123-MelosoFont.ipa",
+          "size": 87448486
         }
       ]
     },
