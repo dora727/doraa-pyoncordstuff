@@ -1,13 +1,15 @@
 {
   "name": "doraa's Vendetta IPAs",
   "identifier": "meow.doraa.vdstuff",
+  "substitle": "Vendetta with custom fonts + more!",
+  "description": "Vendetta with custom fonts + more!",
   "apps": [
     {
       "name": "Discord (Vendetta)",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Discord, Inc. x Vendetta",
       "subtitle": "Discord with Vendetta + Meloso Font!",
-      "localizedDescription": "atk hd",
+      "localizedDescription": ":3",
       "iconURL": "https://raw.githubusercontent.com/dora727/un-rosiecorded-iconpack/master/discordicon.png",
       "tintColor": "5164ED",
       "screenshotURLs": [],
@@ -15,10 +17,18 @@
       "versions": [
         {
           "version": "208.0",
-          "date": "23/12/12",
-          "localizedDescription": "atk hd",
+          "date": "2023-12-12",
+          "localizedDescription": ":3",
           "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v208.0-52961-MelosoFont.ipa",
           "size": 87448486,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "205.0",
+          "date": "2023-12-12",
+          "localizedDescription": "(this ver works the best whithout any bug)",
+          "downloadURL": "https://github.com/dora727/un-rosiecorded-iconpack/releases/download/test/Discord-v205.0-52123-MelosoFont.ipa",
+          "size": 89710624,
           "minOSVersion": "12.0"
         }
       ]
@@ -36,7 +46,7 @@
       "versions": [
         {
           "version": "7.2.7",
-          "date": "23/11/11",
+          "date": "2023-11-11",
           "localizedDescription": "updated to talk with more girls",
           "downloadURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
           "size": 727,
