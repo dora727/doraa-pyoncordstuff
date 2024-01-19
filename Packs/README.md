@@ -13,9 +13,9 @@ What is this? This is Rosiecord's Iconpacks for Vendetta Themes+ but removed cha
 
     1. Click "Custom Iconpack" (*1)
     2. On "Root URL" put iconpack link
-     - Plumpy Icon: https://raw.githubusercontent.com/dora727/doraa-vdstuffs/master/Packs/Plumpy/
-     - SecondPlumpy Icon (which i changed some icons): https://raw.githubusercontent.com/dora727/doraa-vdstuffs/master/Packs/SecondPlumpy/
-     - Iconsax Icon (un-done for un-rosiecording lol): https://raw.githubusercontent.com/dora727/doraa-vdstuffs/master/Packs/Iconsax/
+     - Plumpy Icon: https://raw.githubusercontent.com/dora727/doraa-vdstuff/master/Packs/Plumpy/
+     - SecondPlumpy Icon (which i changed some icons): https://raw.githubusercontent.com/dora727/doraa-vdstuff/master/Packs/SecondPlumpy/
+     - Iconsax Icon (un-done for un-rosiecording lol): https://raw.githubusercontent.com/dora727/doraa-vdstuff/master/Packs/Iconsax/
     3. On "Icon Suffix" put @2x or @3x (@2x recommended)
 7. Tap "Reload".
 
