@@ -13,16 +13,16 @@ What is this? This is Iconpacks for Vendetta Themes+ (fork from Rosiecord with s
 
     1. Click "Custom Iconpack" (*1)
     2. On "Root URL" put iconpack link
-     - Plumpy Icon: https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Plumpy/
-     - Deco Icon (WIP) (which i changed some icons): https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Deco/
-     - SecondPlumpy Icon (which i changed some icons): https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/SecondPlumpy/
-     - Iconsax Icon (un-done for un-rosiecording lol): https://raw.githubusercontent.com/dora727/doraa-revengestuff/master/Packs/Iconsax/
+     - Deco Icon: Available via Force Iconpack! Or if you want the link: https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Deco/
+     - Plumpy Icon: https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Plumpy/
+     - SecondPlumpy Icon (which i changed some icons): https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/SecondPlumpy/
+     - Iconsax Icon (un-done for un-rosiecording lol): https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Packs/Iconsax/
     3. On "Icon Suffix" put @2x or @3x (@2x recommended)
 7. Tap "Reload".
 
 Enjoy!
 
-(*1). In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack"
+(*1). In case you just want to use default Plumpy, Iconsax by Rosiecord or md3 by Panniku, Solar by Moodle stay at "Force Iconpack" and choose one of the iconpack in "Selected Iconpack"
 
 
 
