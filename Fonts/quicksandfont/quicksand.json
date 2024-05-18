@@ -1,0 +1,14 @@
+{
+    "spec": 1,
+    "name": "Quicksand",
+    "previewText": "meow :3",
+    "main": {
+        "ggsans-Bold": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/quicksandfont/ttf/pyon/Quicksand-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/ttf/pyon/Quicksand-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/ttf/pyon/Quicksand-ExtraBold.ttf",
+        "ggsans-Medium": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/ttf/pyon/Quicksand-Medium.ttf",
+        "ggsans-Normal": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/ttf/pyon/Quicksand-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/ttf/pyon/Quicksand-RegularItalic.ttf",
+        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/ttf/pyon/Quicksand-SemiBold.ttf"
+    }
+}
