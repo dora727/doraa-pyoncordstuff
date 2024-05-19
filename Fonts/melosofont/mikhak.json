@@ -1,0 +1,14 @@
+{
+    "spec": 1,
+    "name": "Meloso",
+    "previewText": "meow :3",
+    "main": {
+        "ggsans-Bold": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/melosofont/ttf/pyon/Meloso-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/Meloso-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/Meloso-ExtraBold.ttf",
+        "ggsans-Medium": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/Meloso-Medium.ttf",
+        "ggsans-Normal": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/Meloso-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/Meloso-RegularItalic.ttf",
+        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/Meloso-SemiBold.ttf"
+    }
+}
