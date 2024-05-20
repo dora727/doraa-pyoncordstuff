@@ -1,0 +1,14 @@
+{
+    "spec": 1,
+    "name": "Minecraft font (FVF Fernando 08)",
+    "previewText": "meow :3",
+    "main": {
+        "ggsans-Bold": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/fvffernando08/fvffernando08.ttf",
+        "ggsans-BoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/fvffernando08/fvffernando08.ttf",
+        "ggsans-ExtraBold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/fvffernando08/fvffernando08.ttf",
+        "ggsans-Medium": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/fvffernando08/fvffernando08.ttf",
+        "ggsans-Normal": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/fvffernando08/fvffernando08.ttf",
+        "ggsans-NormalItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/fvffernando08/fvffernando08.ttf",
+        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/fvffernando08/fvffernando08.ttf"
+    }
+}
