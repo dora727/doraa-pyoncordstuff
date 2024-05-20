@@ -6,9 +6,12 @@
         "ggsans-Bold": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/torusfont/Torus-Bold.otf",
         "ggsans-BoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-BoldItalic.otf",
         "ggsans-ExtraBold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-Heavy.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-HeavyItalic.otf",
         "ggsans-Medium": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-Medium.otf",
+        "ggsans-MediumItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-MediumItalic.otf",
         "ggsans-Normal": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-Regular.otf",
         "ggsans-NormalItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-RegularItalic.otf",
-        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-SemiBold.otf"
+        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-SemiBold.otf",
+        "ggsans-SemiboldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/Torus-SemiBoldItalic.otf"
     }
 }
