@@ -1,0 +1,17 @@
+{
+    "spec": 1,
+    "name": "Whitney",
+    "previewText": "old font? but in new versions!",
+    "main": {
+        "ggsans-Bold": "https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/whitney/whitney-bold.otf",
+        "ggsans-BoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-bolditalic.otf",
+        "ggsans-ExtraBold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-heavy.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-heavyitalic.otf",
+        "ggsans-Medium": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-medium.otf",
+        "ggsans-MediumItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-mediumitalic.otf",
+        "ggsans-Normal": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-book.otf",
+        "ggsans-NormalItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-bookitalic.otf",
+        "ggsans-Semibold": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-semibold.otf",
+        "ggsans-SemiboldItalic": "https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/whitney/whitney-semibolditalic.otf"
+    }
+}
