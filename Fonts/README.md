@@ -16,11 +16,10 @@ Enjoy!
 Some place to find find fonts:
 
 1.This GitHub repo:
-
-     1. [Minecraft Fonts](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/fvffernando08/fvffernando08.json)
-     2. [Meloso](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/meloso.json)
-     3. [Mikhak](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/pyon/mikhak.json)
-     4. [Quicksand](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/quicksand.json)
-     5. [Torus](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/torus.json)
+    1. [Minecraft Fonts](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/master/Fonts/fvffernando08/fvffernando08.json)
+    2. [Meloso](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/melosofont/ttf/pyon/meloso.json)
+    3. [Mikhak](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/mikhakfont/ttf/pyon/mikhak.json)
+    4. [Quicksand](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/quicksandfont/quicksand.json)
+    5. [Torus](https://github.com/dora727/doraa-pyoncordstuff/raw/master/Fonts/torusfont/torus.json)
 
 2. [Rairof's Theme-Fonts](https://github.com/Rairof/Theme-Fonts)
