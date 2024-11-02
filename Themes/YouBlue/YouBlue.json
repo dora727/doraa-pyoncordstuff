@@ -80,7 +80,8 @@
 		"BUTTON_OUTLINE_DANGER_BORDER":  [ "#ADC5FA" ],
 		"STATUS_DANGER":  [ "#ADC5FA" ],
 		"BG_BRAND":  [ "#434D62" ],
-		"LOGO_PRIMARY":  [ "#ff0" ]
+		"LOGO_PRIMARY":  [ "#ADC5FA" ],
+		"REDESIGN_INPUT_CONTROL_ACTIVE_BG":  [ "#1B1E27" ]
     },
     "rawColors": {
         "PRIMARY_100": "#DEE8FD",
@@ -207,6 +208,7 @@
         "BLUE_700": "#ff0",
         "WHITE_500": "#FFF",
         "WHITE_630": "#DEE8FD",
+		"WHITE": "#DEE8FD",
 		"ROLE_DEFAULT": "#1B1E27"
     },
     "plus": {
@@ -229,7 +231,12 @@
           "StatusOnline": "#adc5fa",
           "StatusIdle": "#adc5fa",
           "StatusDND": "#adc5fa",
-          "StatusOffline": "#4F5971"
+          "StatusOffline": "#4F5971",
+		  "friends_toast_icon": "#adc5fa",
+		  "toast_copy_link": "#adc5fa",
+		  "toast_copy_message": "#adc5fa",
+		  "toast_image_saved": "#adc5fa",
+		  "toast_invite_sent": "#adc5fa"
             }
     },
     "spec": 2
