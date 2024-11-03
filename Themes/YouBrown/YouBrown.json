@@ -1,5 +1,5 @@
 {
-    "name": "YouBlue",
+    "name": "YouBrown",
     "description": "blue based on material you :3",
     "version": "1.0",
     "authors": [
@@ -209,7 +209,7 @@
         "BLUE_630": "#ff0",
         "BLUE_660": "#ff0",
         "BLUE_700": "#ff00ff",
-        "WHITE_500": "#FDE3DE",
+        "WHITE_500": "#FFFFFF",
         "WHITE_630": "#FDE3DE",
 		"ROLE_DEFAULT": "#271E1B"
     },
