@@ -79,12 +79,13 @@
 		"ALERT_BG":  [ "#1B1E27" ],
 		"BUTTON_OUTLINE_DANGER_BORDER":  [ "#8B9EC9" ],
 		"STATUS_DANGER":  [ "#ADC5FA" ],
-		"BG_BRAND":  [ "#434D62" ],
+		"BG_BRAND":  [ "#ADC5FA" ],
 		"LOGO_PRIMARY":  [ "#ADC5FA" ],
 		"REDESIGN_INPUT_CONTROL_ACTIVE_BG":  [ "#1B1E27" ],
 		"DIVIDER_STRONG":  [ "#181A21" ],
 		"POLLS_VICTOR_FILL":  [ "#ADC5FA55" ],
-		"POLLS_VOTED_FILL":  [ "#ADC5FA44" ]
+		"POLLS_VOTED_FILL":  [ "#ADC5FA44" ],
+		"NEUTRAL_30":  [ "#ff0" ]
     },
     "rawColors": {
         "PRIMARY_100": "#DEE8FD",
@@ -222,13 +223,13 @@
        "customOverlays": true,
        "icons":{
           "ic_radio_circle_checked": "#adc5fa",
-          "ic_radio_circle_checked__overlay": "#FFFFFF",
+          "ic_radio_circle_checked__overlay": "#434D62",
           "ic_radio_square_24px": "#adc5fa",
           "ic_radio_square_checked_24px": "#adc5fa",
-          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+          "ic_radio_square_checked_24px__overlay": "#434D62",
           "ic_rich_presence_dark_12px": "#adc5fa",
           "ic_selection_checked_24px": "#adc5fa",
-          "ic_selection_checked_24px__overlay": "#FFFFFF",
+          "ic_selection_checked_24px__overlay": "#434D62",
           "ic_star_filled": "#adc5fa",
           "img_guild_folder": "#adc5fa",
           "StatusMobileOnline": "#adc5fa",
