@@ -1,6 +1,6 @@
 {
-    "name": "YouBrown",
-    "description": "blue based on material you :3",
+    "name": "YouRed",
+    "description": "red based on material you :3",
     "version": "1.0",
     "authors": [
       {
@@ -34,7 +34,7 @@
         "CHANNEL_ICON": [ "#FABCAD88" ],
         "CHANNELS_DEFAULT": [ "#FABCAD" ],
         "CHANNELTEXTAREA_BACKGROUND": [ "#00ff00" ],
-        "CHAT_BACKGROUND": [ "#00ff00" ],
+        "CHAT_BACKGROUND": [ "#191513" ],
         "EMBED_BACKGROUND": [ "#271E1B" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#271E1B" ],
         "HEADER_PRIMARY": [ "#FABCAD" ],
@@ -114,7 +114,7 @@
         "PLUM_3": "#FDE3DE",
         "PLUM_4": "#FABCAD",
         "PLUM_6": "#FABCAD",
-        "BRAND_260": "#FABCAD88",
+        "BRAND_260": "#FABCADaa",
         "BRAND_300": "#00ff00",
         "BRAND_330": "#00ff00",
         "BRAND_345": "#00ff00",
