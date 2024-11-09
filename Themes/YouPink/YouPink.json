@@ -10,7 +10,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [ "#271B24" ],
-        "BACKGROUND_ACCENT": [ "#62435C" ],
+        "BACKGROUND_ACCENT": [ "#C98BBD" ],
         "BACKGROUND_MENTIONED": [ "#FAADEC17" ],
         "BACKGROUND_MENTIONED_HOVER": [ "#FAADEC80" ],
         "BACKGROUND_MESSAGE_HOVER": [ "#271B24" ],
@@ -180,7 +180,7 @@
         "YELLOW_660": "#00ff00",
         "YELLOW_700": "#00ff00",
         "GREEN_260": "#00ff00",
-        "GREEN_300": "#00ff00",
+        "GREEN_300": "#FAADEC",
         "GREEN_330": "#FAADEC",
         "GREEN_345": "#FAADEC",
         "GREEN_360": "#FAADEC",

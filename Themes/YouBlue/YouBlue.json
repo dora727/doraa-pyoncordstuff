@@ -10,7 +10,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [ "#1B1E27" ],
-        "BACKGROUND_ACCENT": [ "#434D62" ],
+        "BACKGROUND_ACCENT": [ "#8B9EC9" ],
         "BACKGROUND_MENTIONED": [ "#adc5fa17" ],
         "BACKGROUND_MENTIONED_HOVER": [ "#adc5fa80" ],
         "BACKGROUND_MESSAGE_HOVER": [ "#1B1E27" ],
@@ -33,7 +33,7 @@
         "CARD_SECONDARY_BG": [ "#181A21" ],
         "CHANNEL_ICON": [ "#adc5fa88" ],
         "CHANNELS_DEFAULT": [ "#ADC5FA" ],
-        "CHANNELTEXTAREA_BACKGROUND": [ "#00ff00" ],
+        "CHANNELTEXTAREA_BACKGROUND": [ "#ff0" ],
         "CHAT_BACKGROUND": [ "#131419" ],
         "EMBED_BACKGROUND": [ "#1B1E27" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#1B1E27" ],
@@ -58,7 +58,7 @@
         "BG_MOD_FAINT": [ "#1B1E27" ],
         "BG_MOD_STRONG": [ "#1B1E27" ],
         "BG_MOD_SUBTLE": [ "#adc5fa29" ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#00ff00" ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#ff0" ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#1B1E27" ],
 		"REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [ "#434D62" ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#1B1E27" ],
@@ -84,8 +84,7 @@
 		"REDESIGN_INPUT_CONTROL_ACTIVE_BG":  [ "#1B1E27" ],
 		"DIVIDER_STRONG":  [ "#181A21" ],
 		"POLLS_VICTOR_FILL":  [ "#ADC5FA55" ],
-		"POLLS_VOTED_FILL":  [ "#ADC5FA44" ],
-		"NEUTRAL_30":  [ "#ff0" ]
+		"POLLS_VOTED_FILL":  [ "#ADC5FA44" ]
     },
     "rawColors": {
         "PRIMARY_100": "#DEE8FD",
@@ -183,7 +182,7 @@
         "YELLOW_660": "#00ff00",
         "YELLOW_700": "#00ff00",
         "GREEN_260": "#00ff00",
-        "GREEN_300": "#00ff00",
+        "GREEN_300": "#ADC5FA",
         "GREEN_330": "#ADC5FA",
         "GREEN_345": "#ADC5FA",
         "GREEN_360": "#ADC5FA",
