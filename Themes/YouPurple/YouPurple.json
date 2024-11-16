@@ -87,7 +87,8 @@
 		"POLLS_VICTOR_FILL":  [ "#BCADFA55" ],
 		"POLLS_VOTED_FILL":  [ "#BCADFA44" ],
 		"SPOILER_HIDDEN_BACKGROUND":  [ "#484362" ],
-		"SPOILER_REVEALED_BACKGROUND":  [ "#1E1B27" ]
+		"SPOILER_REVEALED_BACKGROUND":  [ "#1E1B27" ],
+		"NAVIGATOR_HEADER_TINT":  [ "#BCADFA" ]
     },
     "rawColors": {
         "PRIMARY_100": "#E3DEFD",
@@ -118,7 +119,7 @@
         "PLUM_4": "#BCADFA",
         "PLUM_6": "#BCADFA",
         "BRAND_260": "#BCADFAaa",
-        "BRAND_300": "#00ff00",
+        "BRAND_300": "#BCADFA",
         "BRAND_330": "#00ff00",
         "BRAND_345": "#00ff00",
         "BRAND_360": "#BCADFA",
@@ -129,9 +130,10 @@
         "BRAND_530": "#ff0",
         "BRAND_560": "#BCADFA",
         "BRAND_600": "#BCADFA",
-        "BRAND_630": "#00ff00",
+        "BRAND_630": "#484362",
         "BRAND_660": "#00ff00",
         "BRAND_700": "#00ff00",
+		"BRAND_730": "#484362",
         "GUILD_BOOSTING_BLUE": "#1E1B27",
         "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#1E1B27",
         "GUILD_BOOSTING_PINK": "#BCADFA",
