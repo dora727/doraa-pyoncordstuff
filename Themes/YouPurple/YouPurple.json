@@ -39,7 +39,7 @@
 		"FORUM_POST_TAG_BACKGROUND": [ "#1E1B27" ],
         "HEADER_PRIMARY": [ "#BCADFA" ],
         "HEADER_SECONDARY": [ "#BCADFA" ],
-        "INPUT_BACKGROUND": [ "#1B1821" ],
+        "INPUT_BACKGROUND": [ "#1E1B27" ],
         "INTERACTIVE_ACTIVE": [ "#BCADFA" ],
         "INTERACTIVE_HOVER": [ "#BCADFA" ],
         "INTERACTIVE_MUTED": [ "#48436277" ],
@@ -88,6 +88,7 @@
 		"POLLS_VOTED_FILL":  [ "#BCADFA44" ],
 		"SPOILER_HIDDEN_BACKGROUND":  [ "#484362" ],
 		"SPOILER_REVEALED_BACKGROUND":  [ "#1E1B27" ],
+		"INPUT_FOCUSED_BORDER":  [ "#242131" ],
 		"NAVIGATOR_HEADER_TINT":  [ "#BCADFA" ]
     },
     "rawColors": {
