@@ -93,7 +93,11 @@
 		"INPUT_FOCUSED_BORDER":  [ "#212631" ],
 		"NAVIGATOR_HEADER_TINT":  [ "#ADC5FA" ],
 		"PROFILE_GRADIENT_PROFILE_BODY_BACKGROUND_HOVER":  [ "#00ff00" ],
-		"CHAT_INPUT_CONTAINER_BACKGROUND":  [ "#00ff00" ]
+		"CHAT_INPUT_CONTAINER_BACKGROUND":  [ "#00ff00" ],
+		"INFO_WARNING_BACKGROUND":  [ "#00ff00" ],
+		"REDESIGN_BUTTON_DESTRUCTIVE_TEXT":  [ "#ADC5FA" ],
+		"REDESIGN_BUTTON_ACTIVE_TEXT":  [ "#ADC5FA" ],
+		"REDESIGN_IMAGE_BUTTON_PRESSED_BACKGROUND":  [ "#ff00ff" ]
     },
     "rawColors": {
         "PRIMARY_100": "#DEE8FD",
@@ -108,12 +112,13 @@
         "PRIMARY_600": "#1B1E27",
         "PRIMARY_630": "#1B1E27",
         "PRIMARY_645": "#ff0",
-        "PRIMARY_660": "#131419",
+        "PRIMARY_660": "#181A21",
         "PRIMARY_700": "#131419",
 		"PRIMARY_730": "#212631",
         "PRIMARY_800": "#1B1E27",
         "PLUM_10": "#adc5fa88",
 		"PLUM_11": "#434D62",
+		"PLUM_14": "#434D62",
         "PLUM_15": "#ADC5FA",
         "PLUM_16": "#131419",
         "PLUM_17": "#1B1E27",
@@ -198,8 +203,8 @@
         "GREEN_345": "#ADC5FA",
         "GREEN_360": "#ADC5FA",
         "GREEN_400": "#ADC5FA",
-        "GREEN_430": "#ADC5FA",
-        "GREEN_460": "#8B9EC9",
+        "GREEN_430": "#212631",
+        "GREEN_460": "#434D62",
         "GREEN_500": "#ADC5FA",
         "GREEN_530": "#ff0",
         "GREEN_560": "#ff0",
@@ -224,7 +229,8 @@
         "BLUE_700": "#ff0",
         "WHITE_500": "#FFFFFF",
         "WHITE_630": "#DEE8FD",
-		"ROLE_DEFAULT": "#1B1E27"
+		"ROLE_DEFAULT": "#1B1E27",
+		"BLACK_460": "#1B1E27"
     },
     "plus": {
        "version": "0",
@@ -251,7 +257,15 @@
 		  "toast_copy_link": "#adc5fa",
 		  "toast_copy_message": "#adc5fa",
 		  "toast_image_saved": "#adc5fa",
-		  "toast_invite_sent": "#adc5fa"
+		  "toast_invite_sent": "#adc5fa",
+		  "ic_crown_16px": "#adc5fa",
+		  "member_list_badge_16px": "#adc5fa",
+		  "ic_nitro_rep_24px": "#adc5fa",
+		  "ShopIcon": "#adc5fa",
+		  "PencilIcon": "#adc5fa",
+		  "SettingsIcon": "#adc5fa",
+		  "MagnifyingGlassIcon": "#adc5fa",
+		  "search": "#adc5fa"
             },
 	  "icons_no":{
 		  "img_account_sync_facebook_light_and_dark": "#adc5fa",

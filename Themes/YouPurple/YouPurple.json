@@ -89,7 +89,9 @@
 		"SPOILER_HIDDEN_BACKGROUND":  [ "#484362" ],
 		"SPOILER_REVEALED_BACKGROUND":  [ "#1E1B27" ],
 		"INPUT_FOCUSED_BORDER":  [ "#242131" ],
-		"NAVIGATOR_HEADER_TINT":  [ "#BCADFA" ]
+		"NAVIGATOR_HEADER_TINT":  [ "#BCADFA" ],
+		"REDESIGN_BUTTON_DESTRUCTIVE_TEXT":  [ "#BCADFA" ],
+		"REDESIGN_BUTTON_ACTIVE_TEXT":  [ "#BCADFA" ]
     },
     "rawColors": {
         "PRIMARY_100": "#E3DEFD",
@@ -104,12 +106,13 @@
         "PRIMARY_600": "#1E1B27",
         "PRIMARY_630": "#1E1B27",
         "PRIMARY_645": "#ff0",
-        "PRIMARY_660": "#151319",
+        "PRIMARY_660": "#1B1821",
         "PRIMARY_700": "#151319",
 		"PRIMARY_730": "#31212E",
         "PRIMARY_800": "#1E1B27",
         "PLUM_10": "#BCADFA88",
 		"PLUM_11": "#484362",
+		"PLUM_14": "#484362",
         "PLUM_15": "#BCADFA",
         "PLUM_16": "#151319",
         "PLUM_17": "#1E1B27",
@@ -194,8 +197,8 @@
         "GREEN_345": "#BCADFA",
         "GREEN_360": "#BCADFA",
         "GREEN_400": "#BCADFA",
-        "GREEN_430": "#BCADFA",
-        "GREEN_460": "#978BC9",
+        "GREEN_430": "#242131",
+        "GREEN_460": "#484362",
         "GREEN_500": "#BCADFA",
         "GREEN_530": "#00ff00",
         "GREEN_560": "#00ff00",
@@ -220,7 +223,8 @@
         "BLUE_700": "#ff00ff",
         "WHITE_500": "#FFFFFF",
         "WHITE_630": "#E3DEFD",
-		"ROLE_DEFAULT": "#1E1B27"
+		"ROLE_DEFAULT": "#1E1B27",
+		"BLACK_460": "#1E1B27"
     },
     "plus": {
        "version": "0",
@@ -244,7 +248,15 @@
 		  "toast_copy_link": "#BCADFA",
 		  "toast_copy_message": "#BCADFA",
 		  "toast_image_saved": "#BCADFA",
-		  "toast_invite_sent": "#BCADFA"
+		  "toast_invite_sent": "#BCADFA",
+		  "ic_crown_16px": "#BCADFA",
+		  "member_list_badge_16px": "#BCADFA",
+		  "ic_nitro_rep_24px": "#BCADFA",
+		  "ShopIcon": "#BCADFA",
+		  "PencilIcon": "#BCADFA",
+		  "SettingsIcon": "#BCADFA",
+		  "MagnifyingGlassIcon": "#BCADFA",
+		  "search": "#BCADFA"
             }
     },
     "spec": 2
