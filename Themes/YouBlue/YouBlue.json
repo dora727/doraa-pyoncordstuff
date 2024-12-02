@@ -98,7 +98,7 @@
 		"REDESIGN_BUTTON_DESTRUCTIVE_TEXT":  [ "#ADC5FA" ],
 		"REDESIGN_BUTTON_ACTIVE_TEXT":  [ "#ADC5FA" ],
 		"REDESIGN_IMAGE_BUTTON_PRESSED_BACKGROUND":  [ "#ff00ff" ],
-		"VOICE_VIDEO_VIDEO_TILE_BACKGROUND":  [ "#ff00ff" ],
+		"CONTENT_INVENTORY_OVERLAY_TEXT_PRIMARY":  [ "#ff00ff" ],
 		"CONTEXT_MENU_BACKDROP_BACKGROUND":  [ "#0A0B0Eaa" ]
     },
     "rawColors": {
@@ -120,6 +120,7 @@
         "PRIMARY_800": "#1B1E27",
         "PLUM_10": "#adc5fa88",
 		"PLUM_11": "#434D62",
+		"PLUM_13": "#ff0",
 		"PLUM_14": "#434D62",
         "PLUM_15": "#ADC5FA",
         "PLUM_16": "#131419",
