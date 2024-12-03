@@ -66,7 +66,7 @@
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#adc5fa" ],
         "REDESIGN_CHANNEL_NAME_TEXT": [ "#adc5fa" ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1B1E27" ],
-		"REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND":  [ "#434D6280" ],
+		"REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND":  [ "#212631" ],
 		"REDESIGN_BUTTON_SECONDARY_OVERLAY_PRESSED_BACKGROUND":  [ "#434D6280" ],
 		"REDESIGN_BUTTON_SECONDARY_OVERLAY_TEXT":  [ "#ADC5FA" ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND":  [ "#212631" ],
@@ -97,7 +97,6 @@
 		"REDESIGN_BUTTON_DESTRUCTIVE_TEXT":  [ "#ADC5FA" ],
 		"REDESIGN_BUTTON_ACTIVE_TEXT":  [ "#ADC5FA" ],
 		"REDESIGN_IMAGE_BUTTON_PRESSED_BACKGROUND":  [ "#ff00ff" ],
-		"CONTENT_INVENTORY_OVERLAY_TEXT_PRIMARY":  [ "#ff00ff" ],
 		"CONTEXT_MENU_BACKDROP_BACKGROUND":  [ "#0A0B0Eaa" ]
     },
     "rawColors": {
@@ -255,6 +254,7 @@
           "StatusIdle": "#adc5fa",
           "StatusDND": "#adc5fa",
           "StatusOffline": "#434D62",
+		  "StatusStreaming": "#adc5fa",
 		  "friends_toast_icon": "#adc5fa",
 		  "toast_copy_link": "#adc5fa",
 		  "toast_copy_message": "#adc5fa",
@@ -267,7 +267,9 @@
 		  "PencilIcon": "#adc5fa",
 		  "SettingsIcon": "#adc5fa",
 		  "MagnifyingGlassIcon": "#adc5fa",
-		  "search": "#adc5fa"
+		  "search": "#adc5fa",
+		  "MoreHorizontalIcon": "#adc5fa",
+		  "UserCheckIcon": "#adc5fa"
             },
 	  "icons_no":{
 		  "img_account_sync_facebook_light_and_dark": "#adc5fa",

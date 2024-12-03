@@ -66,7 +66,7 @@
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BCADFA" ],
         "REDESIGN_CHANNEL_NAME_TEXT": [ "#BCADFA" ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1E1B27" ],
-		"REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND":  [ "#48436280" ],
+		"REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND":  [ "#242131" ],
 		"REDESIGN_BUTTON_SECONDARY_OVERLAY_PRESSED_BACKGROUND":  [ "#48436280" ],
 		"REDESIGN_BUTTON_SECONDARY_OVERLAY_TEXT":  [ "#BCADFA" ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND":  [ "#242131" ],
@@ -245,6 +245,7 @@
           "StatusIdle": "#BCADFA",
           "StatusDND": "#BCADFA",
           "StatusOffline": "#484362",
+		  "StatusStreaming": "#BCADFA",
 		  "friends_toast_icon": "#BCADFA",
 		  "toast_copy_link": "#BCADFA",
 		  "toast_copy_message": "#BCADFA",
@@ -257,7 +258,9 @@
 		  "PencilIcon": "#BCADFA",
 		  "SettingsIcon": "#BCADFA",
 		  "MagnifyingGlassIcon": "#BCADFA",
-		  "search": "#BCADFA"
+		  "search": "#BCADFA",
+		  "MoreHorizontalIcon": "#BCADFA",
+		  "UserCheckIcon": "#BCADFA"
             }
     },
     "spec": 2
