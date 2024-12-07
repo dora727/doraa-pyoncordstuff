@@ -264,7 +264,8 @@
 		  "MagnifyingGlassIcon": "#E1A99C",
 		  "search": "#E1A99C",
 		  "MoreHorizontalIcon": "#E1A99C",
-		  "UserCheckIcon": "#E1A99C"
+		  "UserCheckIcon": "#E1A99C",
+		  "ic_send": "#E1A99C"
             }
     },
     "spec": 2

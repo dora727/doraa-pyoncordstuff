@@ -264,7 +264,8 @@
 		  "MagnifyingGlassIcon": "#FAADEC",
 		  "search": "#FAADEC",
 		  "MoreHorizontalIcon": "#FAADEC",
-		  "UserCheckIcon": "#FAADEC"
+		  "UserCheckIcon": "#FAADEC",
+		  "ic_send": "#FAADEC"
             }
     },
     "spec": 2

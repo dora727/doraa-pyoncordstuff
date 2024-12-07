@@ -266,7 +266,8 @@
 		  "MagnifyingGlassIcon": "#BCADFA",
 		  "search": "#BCADFA",
 		  "MoreHorizontalIcon": "#BCADFA",
-		  "UserCheckIcon": "#BCADFA"
+		  "UserCheckIcon": "#BCADFA",
+		  "ic_send": "#BCADFA"
             }
     },
     "spec": 2
