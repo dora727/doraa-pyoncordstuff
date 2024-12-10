@@ -98,7 +98,8 @@
 		"STATUS_DANGER":  [ "#FFFFFF" ],
 		"REDESIGN_BUTTON_DANGER_BACKGROUND":  [ "#262626" ],
 		"STATUS_DANGER_TEXT":  [ "#B1B1B1" ],
-		"STATUS_WARNING":  [ "#FFFFFF" ]
+		"STATUS_WARNING":  [ "#FFFFFF" ],
+		"BG_SURFACE_OVERLAY":  [ "#1A1A1A" ]
     },
     "rawColors": {
         "PRIMARY_100": "#E7E7E7",
@@ -267,7 +268,8 @@
 		  "search": "#B1B1B1",
 		  "MoreHorizontalIcon": "#B1B1B1",
 		  "UserCheckIcon": "#B1B1B1",
-		  "ic_send": "#B1B1B1"
+		  "ic_send": "#B1B1B1",
+		  "NitroWheelIcon": "#B1B1B1"
             }
     },
     "spec": 2

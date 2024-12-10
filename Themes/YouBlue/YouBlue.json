@@ -89,11 +89,9 @@
 		"POLLS_VOTED_FILL":  [ "#ADC5FA44" ],
 		"SPOILER_HIDDEN_BACKGROUND":  [ "#434D62" ],
 		"SPOILER_REVEALED_BACKGROUND":  [ "#1B1E27" ],
-		"DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER":  [ "#ff0" ],
 		"INPUT_FOCUSED_BORDER":  [ "#212631" ],
 		"NAVIGATOR_HEADER_TINT":  [ "#ADC5FA" ],
-		"PROFILE_GRADIENT_PROFILE_BODY_BACKGROUND_HOVER":  [ "#00ff00" ],
-		"CHAT_INPUT_CONTAINER_BACKGROUND":  [ "#00ff00" ],
+		"BG_SURFACE_OVERLAY":  [ "#181A21" ],
 		"REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND":  [ "#212631" ],
 		"REDESIGN_BUTTON_DESTRUCTIVE_TEXT":  [ "#ADC5FA" ],
 		"REDESIGN_BUTTON_ACTIVE_TEXT":  [ "#ADC5FA" ],
@@ -273,7 +271,8 @@
 		  "search": "#adc5fa",
 		  "MoreHorizontalIcon": "#adc5fa",
 		  "UserCheckIcon": "#adc5fa",
-		  "ic_send": "#adc5fa"
+		  "ic_send": "#adc5fa",
+		  "NitroWheelIcon": "#adc5fa"
             },
 	  "icons_no":{
 		  "img_account_sync_facebook_light_and_dark": "#adc5fa",
