@@ -245,6 +245,7 @@
           "ic_radio_square_checked_24px": "#B1B1B1",
           "ic_rich_presence_dark_12px": "#B1B1B1",
           "ic_selection_checked_24px": "#B1B1B1",
+		  "ic_selection_none_24px": "#4C4C4C",
           "ic_star_filled": "#B1B1B1",
           "img_guild_folder": "#B1B1B1",
           "StatusMobileOnline": "#B1B1B1",

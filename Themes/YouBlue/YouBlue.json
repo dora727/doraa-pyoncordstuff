@@ -249,6 +249,7 @@
           "ic_rich_presence_dark_12px": "#adc5fa",
           "ic_selection_checked_24px": "#adc5fa",
           "ic_selection_checked_24px__overlay": "#434D62",
+		  "ic_selection_none_24px": "#434D62",
           "ic_star_filled": "#adc5fa",
           "img_guild_folder": "#adc5fa",
           "StatusMobileOnline": "#adc5fa",

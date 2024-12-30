@@ -243,6 +243,7 @@
           "ic_radio_square_checked_24px": "#FAADEC",
           "ic_rich_presence_dark_12px": "#FAADEC",
           "ic_selection_checked_24px": "#FAADEC",
+		  "ic_selection_none_24px": "#62435C",
           "ic_star_filled": "#FAADEC",
           "img_guild_folder": "#FAADEC",
           "StatusMobileOnline": "#FAADEC",
