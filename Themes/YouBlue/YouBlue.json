@@ -49,7 +49,7 @@
 		"TEXT_DANGER": [ "#adc5fa" ],
         "TEXT_LINK": [ "#adc5fa" ],
         "TEXT_NORMAL": [ "#DEE8FD" ],
-        "TEXT_MUTED": [ "#434D62" ],
+        "TEXT_MUTED": [ "#6C7C9D" ],
         "TEXT_PRIMARY": [ "#DEE8FD" ],
         "THREAD_CHANNEL_SPINE": [ "#ADC5FA" ],
         "BG_BASE_PRIMARY": [ "#131419" ],
@@ -99,7 +99,8 @@
 		"STATUS_DANGER":  [ "#85B6FF" ],
 		"REDESIGN_BUTTON_DANGER_BACKGROUND":  [ "#212631" ],
 		"STATUS_DANGER_TEXT":  [ "#ADC5FA" ],
-		"STATUS_WARNING":  [ "#85B6FF" ]
+		"STATUS_WARNING":  [ "#85B6FF" ],
+		"STATUS_OFFLINE":  [ "#434D62" ]
     },
     "rawColors": {
         "PRIMARY_100": "#DEE8FD",
@@ -119,6 +120,7 @@
 		"PRIMARY_730": "#212631",
         "PRIMARY_800": "#1B1E27",
 		"PLUM_0": "#ADC5FA",
+		"PLUM_9": "#ADC5FA",
         "PLUM_10": "#434D62",
 		"PLUM_11": "#434D62",
 		"PLUM_13": "#ADC5FA",
@@ -236,7 +238,7 @@
         "BLUE_630": "#ff0",
         "BLUE_660": "#ff0",
         "BLUE_700": "#ff0",
-		"NEUTRAL_1": "#ff0",
+		"NEUTRAL_34": "#ff0",
         "WHITE_630": "#DEE8FD",
 		"ROLE_DEFAULT": "#1B1E27",
 		"BLACK_460": "#1B1E27"
@@ -280,7 +282,8 @@
 		  "MoreHorizontalIcon": "#adc5fa",
 		  "UserCheckIcon": "#adc5fa",
 		  "ic_send": "#adc5fa",
-		  "NitroWheelIcon": "#adc5fa"
+		  "NitroWheelIcon": "#adc5fa",
+		  "down_arrow": "#adc5fa"
             },
 	  "icons_no":{
 		  "img_account_sync_facebook_light_and_dark": "#adc5fa",

@@ -49,7 +49,7 @@
 		"TEXT_DANGER": [ "#FAADEC" ],
         "TEXT_LINK": [ "#FAADEC" ],
         "TEXT_NORMAL": [ "#FDDEF8" ],
-        "TEXT_MUTED": [ "#62435C" ],
+        "TEXT_MUTED": [ "#9D6C94" ],
         "TEXT_PRIMARY": [ "#FDDEF8" ],
         "THREAD_CHANNEL_SPINE": [ "#FAADEC" ],
         "BG_BASE_PRIMARY": [ "#191317" ],
@@ -99,7 +99,8 @@
 		"REDESIGN_BUTTON_DANGER_BACKGROUND":  [ "#31212E" ],
 		"STATUS_DANGER_TEXT":  [ "#FAADEC" ],
 		"STATUS_WARNING":  [ "#FF85FF" ],
-		"BG_SURFACE_OVERLAY":  [ "#21181F" ]
+		"BG_SURFACE_OVERLAY":  [ "#21181F" ],
+		"STATUS_OFFLINE":  [ "#62435C" ]
     },
     "rawColors": {
         "PRIMARY_100": "#FDDEF8",
@@ -274,7 +275,8 @@
 		  "MoreHorizontalIcon": "#FAADEC",
 		  "UserCheckIcon": "#FAADEC",
 		  "ic_send": "#FAADEC",
-		  "NitroWheelIcon": "#FAADEC"
+		  "NitroWheelIcon": "#FAADEC",
+		  "down_arrow": "#FAADEC"
             }
     },
     "spec": 2
