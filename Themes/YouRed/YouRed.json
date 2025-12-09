@@ -255,10 +255,7 @@
           "img_guild_folder": "#E1A99C",
           "StatusMobileOnline": "#E1A99C",
           "StatusOnline": "#E1A99C",
-          "StatusIdle": "#E1A99C",
-          "StatusDND": "#E1A99C",
           "StatusOffline": "#624843",
-		  "StatusStreaming": "#E1A99C",
 		  "friends_toast_icon": "#E1A99C",
 		  "toast_copy_link": "#E1A99C",
 		  "toast_copy_message": "#E1A99C",
@@ -276,7 +273,8 @@
 		  "UserCheckIcon": "#E1A99C",
 		  "ic_send": "#E1A99C",
 		  "NitroWheelIcon": "#E1A99C",
-		  "down_arrow": "#E1A99C"
+		  "down_arrow": "#E1A99C",
+          "QuestsIcon": "#e1a99c"
             }
     },
     "spec": 2

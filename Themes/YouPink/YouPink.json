@@ -255,10 +255,7 @@
           "img_guild_folder": "#FAADEC",
           "StatusMobileOnline": "#FAADEC",
           "StatusOnline": "#FAADEC",
-          "StatusIdle": "#FAADEC",
-          "StatusDND": "#FAADEC",
           "StatusOffline": "#62435C",
-		  "StatusStreaming": "#FAADEC",
 		  "friends_toast_icon": "#FAADEC",
 		  "toast_copy_link": "#FAADEC",
 		  "toast_copy_message": "#FAADEC",
@@ -276,7 +273,8 @@
 		  "UserCheckIcon": "#FAADEC",
 		  "ic_send": "#FAADEC",
 		  "NitroWheelIcon": "#FAADEC",
-		  "down_arrow": "#FAADEC"
+		  "down_arrow": "#FAADEC",
+          "QuestsIcon": "#faadec"
             }
     },
     "spec": 2

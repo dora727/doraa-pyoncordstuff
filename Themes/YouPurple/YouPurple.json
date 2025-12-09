@@ -257,10 +257,7 @@
           "img_guild_folder": "#BCADFA",
           "StatusMobileOnline": "#BCADFA",
           "StatusOnline": "#BCADFA",
-          "StatusIdle": "#BCADFA",
-          "StatusDND": "#BCADFA",
           "StatusOffline": "#484362",
-		  "StatusStreaming": "#BCADFA",
 		  "friends_toast_icon": "#BCADFA",
 		  "toast_copy_link": "#BCADFA",
 		  "toast_copy_message": "#BCADFA",
@@ -278,7 +275,8 @@
 		  "UserCheckIcon": "#BCADFA",
 		  "ic_send": "#BCADFA",
 		  "NitroWheelIcon": "#BCADFA",
-		  "down_arrow": "#BCADFA"
+		  "down_arrow": "#BCADFA",
+          "QuestsIcon": "#bcadfa"
             }
     },
     "spec": 2
